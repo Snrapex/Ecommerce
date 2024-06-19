@@ -6,6 +6,8 @@ const footer = ()=>{
             <img src="/icons/facebook.png"/>
             <div className="flex ">
               <img src="/icons/facebook.svg"/>
+              
+              <img src="/icons/facebook.svg"/>
               <img src="/icons/linkedin.svg"/>
               <img src="/icons/instagram.svg"/>
               <img src="/icons/youtube.svg"/>
