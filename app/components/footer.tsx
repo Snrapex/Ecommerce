@@ -3,12 +3,12 @@ const footer = ()=>{
         
         <section className=" flex  justify-around h-[200px] mt-16">
           <div className="flex flex-col justify-between">
-            <img src="/icons/facebook.png"/>
+            <img src="/icons/facebook.png" alt=""/>
             <div className="flex ">
-              <img src="/icons/facebook.svg"/>
-              <img src="/icons/linkedin.svg"/>
-              <img src="/icons/instagram.svg"/>
-              <img src="/icons/youtube.svg"/>
+              <img src="/icons/facebook.svg" alt=""/>
+              <img src="/icons/linkedin.svg" alt=""/>
+              <img src="/icons/instagram.svg" alt=""/>
+              <img src="/icons/youtube.svg" alt=""/>
             </div>
           </div>
           <div className="flex flex-col justify-between">

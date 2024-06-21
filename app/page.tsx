@@ -16,7 +16,7 @@ export default function Home(){
           <button className="bg-black text-white rounded-md px-2 py-1">Eplore
           </button>
 
-          <img src="/images/Drag.svg" className="h-[500px]  mt-10"/>
+          <img src="/images/Drag.svg" className="h-[500px]  mt-10" alt="explore"/>
       </section>
       <div className="h-20">
             <h3 className="text-2xl font-bold">
@@ -30,7 +30,7 @@ export default function Home(){
 
               <div className=" flex flex-col  border-2 rounded-lg shadow-2xl h-36 w-1/4  ">
                   <div className=" flex items-center h-1/2 m">
-                    <h1 className=" text-lg font-bold ml-4">"A terrific piece of praise"</h1>
+                    <h1 className=" text-lg font-bold ml-4">&quot; A terrific piece of praise &quot;</h1>
                   </div>
                   
                   <div className="flex flex-row block ml-4">
@@ -49,7 +49,7 @@ export default function Home(){
               </div>
               <div className=" flex flex-col  border-2 shadow-2xl h-36 w-1/4 rounded-lg ">
                   <div className="h-1/2 ">
-                      <h1 className="flex items-center mt-2 text-lg font-bold ml-4">"A terrific piece of praise"</h1>
+                      <h1 className="flex items-center mt-2 text-lg font-bold ml-4">&quot; A terrific piece of praise &quot;</h1>
                   </div>
                   
                   <div className="flex flex-row block ml-4">
@@ -68,7 +68,7 @@ export default function Home(){
               </div>
               <div className=" flex flex-col   shadow-[0_35px_60px_-15px_rgba(0,0,0,0.2)] h-36 w-1/4 rounded-lg">
                   <div className="h-1/2 ">
-                      <h1 className="flex items-center mt-2 text-lg font-bold ml-4">"A terrific piece of praise"</h1>
+                      <h1 className="flex items-center mt-2 text-lg font-bold ml-4">&quot; A terrific piece of praise &quot;</h1>
                   </div>
                   
                   <div className="flex flex-row block ml-4">
