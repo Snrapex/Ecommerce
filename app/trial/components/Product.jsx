@@ -39,6 +39,9 @@ draggable
 pauseOnHover
 theme="dark"
 />
+
+
+
       <div className="container my-5">
         <div className="row">
           {items.map((product) => {
