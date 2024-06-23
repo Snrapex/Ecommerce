@@ -10,7 +10,7 @@ const navbar=()=>{
                     <li className="font-bold text-lg">
                         Home
                     </li> 
-                    <li className="font-bold text-lg">
+                    <li className="font-bold text-lg"> 
                         About Us
                     </li>
                     <button className="bg-orange-500 text-white px-2 py-1 mr-4 rounded">
