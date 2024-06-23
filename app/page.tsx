@@ -7,14 +7,18 @@ export default function Home(){
     <div className="w-full bg-white">
       <Navbar/>
       <section className="flex flex-col items-center justify-center h-[800px] ">
-          <h1 className="text-4xl font-bold">
-              Welcome to the fixel ecommerce website
-          </h1>
-          <h2 className="text-2xl font-">
-              Relax and Eplore
-          </h2>
-          <button className="bg-black text-white rounded-md px-2 py-1">Eplore
-          </button>
+          <div className="flex flex-col h-36 justify-between items-center">
+              <h1 className="text-4xl font-bold">
+                  Welcome to the fixel e-commerce website
+              </h1>
+              <h2 className="text-2xl font-">
+                  Relax and Eplore
+              </h2>
+              <button className="bg-black text-white rounded-md px-2 py-1">
+                  Eplore
+              </button>
+          </div>
+          
 
           <img src="/images/Drag.svg" className="h-[500px]  mt-10" alt="explore"/>
       </section>
