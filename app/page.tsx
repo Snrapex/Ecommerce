@@ -1,5 +1,6 @@
 /*import Navbar from "./components/navbar"
 import Footer from "./components/footer"
+import Image from "next/image"
 
 export default function Home(){
 
@@ -35,7 +36,7 @@ export default function Home(){
                   
                   <div className="flex flex-row block ml-4">
                       <div className="w-12">
-                        <img src="/icons/my icon.png" alt="my icon" className="w-[40px] h-[40px] rounded-full" />
+                        <Image src="/icons/my icon.png" alt="my icon" className="w-[40px] h-[40px] rounded-full" />
                       </div>
                       <div>
                         <p className="font-bold">
