@@ -1,9 +1,10 @@
 import Navbar from "./components/navbar"
 import Footer from "./components/footer"
-
+import Nav from "./components/nav"
 export default function Home(){
 
   return(
+    <>  
     <div className="w-full bg-white">
       <Navbar/>
       <section className="flex flex-col items-center justify-center h-[800px] ">
@@ -91,7 +92,12 @@ export default function Home(){
               </div>
         </section>
         <Footer/>
-    </div>
+        
+        <Nav/>
+     </div>
+     
+  </>
+
   )
 }
     
